@@ -1,24 +1,6 @@
 # Stock-Data-Analysis-Tool-15-112
 15-112 Term Project 
 
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @derekcarnegie
- Sign out
- Watch 0
-  Star 0  Fork 0 derekcarnegie/Stock-Data-Analysis-Tool-15-112
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-Branch: master Find file Copy pathStock-Data-Analysis-Tool-15-112/readme.txt
-0356213  37 seconds ago
-@derekcarnegie derekcarnegie Add files via upload
-1 contributor
-RawBlameHistory     
-32 lines (17 sloc)  1.66 KB
 Stock Data Analysis Tool is a tool that can be used to compare stocks on key financial ratios, look at historical pricing data, predict future stock prices based off of financial ratios, and generates portfolio's for the user based off of user inputted metrics.
 
 In order for the user to run this program, they must have tkinter and matplotlib downloaded onto their computers. 
