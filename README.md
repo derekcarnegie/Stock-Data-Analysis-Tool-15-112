@@ -19,7 +19,7 @@ Inputting more stocks:
 
 -Within the folder place the balance sheet inside with the format: STOCKTICKERNAME_BS.csv
 
--Within the folder place the historical price data sheet with the format: STOCKTICKERNMAE_Price.csv
+-Within the folder place the historical price data sheet with the format: STOCKTICKERNAME_Price.csv
 
 
 Using the Program:
