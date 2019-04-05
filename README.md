@@ -32,7 +32,7 @@ Directions of Note:
 - Pick a max of 2 stocks in the stock performance folder and choose a timeline if you want to see future stock price predictions
 - Make sure to click a risk amount in portfolio builder
 
-***Hope this helped! And if you have any questions email: derekl1@andrew.cmu.edu***
+***Hope this helped! And if you have any questions email: derekli2@illinois.edu***
 © 2017 GitHub, Inc.
 Terms
 Privacy
